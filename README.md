@@ -1,5 +1,5 @@
 Proprietary files for BCM21553 device
-=====================================
+======================================
 
 Currently devices supported:
 
